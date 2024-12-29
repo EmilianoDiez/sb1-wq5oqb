@@ -38,7 +38,7 @@ const PricingDisplay: React.FC = () => {
         <h4 className="font-medium text-blue-800 mb-2">Información Importante</h4>
         <ul className="space-y-1">
           <li>• Los precios pueden estar sujetos a cambios</li>
-          <li>• La revisación médica es obligatoria y tiene una validez de 15 días</li>
+          <li><b>• La revisación médica es obligatoria y tiene una validez de 14 días<b/></li>
           <li>• Los descuentos se aplican por orden de llegada</li>
           <li>• Los feriados se consideran como fin de semana para las tarifas</li>
         </ul>
